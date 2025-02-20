@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+#panel {
+    text-align: center;
+    margin-top: 30vh;
+}
+
+.btn {
+    width: 10rem;
+    margin: 1rem;
+    padding: 1rem;
+}

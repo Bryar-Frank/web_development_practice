@@ -1,0 +1,18 @@
+#showArea {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.showCard  {
+    padding: 1rem;
+    width: 13rem;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+/* img {
+    height: 10rem;
+} */

@@ -1,0 +1,22 @@
+#playToDisplay {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.card {
+    margin-top: 3vh;
+}
+
+
+.content h3 {
+    text-align: right;
+}
+
+.winner {
+    color: green;
+}
+
+.loser {
+    color: red;
+}
